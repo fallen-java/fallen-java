@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://fallen-java.github.io](https://fallen-java.github.io)
 
-- 📝 I write articles on [https://fallen-java.github.io/blog](https://fallen-java.github.io/blog (upcoming))
+- 📝 I write articles on [https://fallen-java.github.io/blog](https://fallen-java.github.io/blog) (upcoming)
 
 - 💬 Ask me about **beginner Python**`
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/@lolfallen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@lolfallen" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@lolfallen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@lolfallen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
