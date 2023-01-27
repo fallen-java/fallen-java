@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **evading censorship, open source projects**
+- 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **making exploits for ChromeOS**
+- 🤝 I’m looking for help with **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://fallen-java.github.io](https://fallen-java.github.io)
 
 - 📝 I write articles on [https://fallen-java.github.io/blog](https://fallen-java.github.io/blog) (upcoming)
 
-- 💬 Ask me about **beginner Python**`
+- 💬 Ask me about **beginner Python, HTML**
 
 - 📫 How to reach me **dfmoedu@tuta.io | hoodednoodle@tuta.io**
 
