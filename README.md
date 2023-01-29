@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://fallen-java.github.io](https://fallen-java.github.io)
 
-- 📝 I write articles on [https://fallen-java.github.io/blog](https://fallen-java.github.io/blog) (upcoming)
+- 📝 I write articles on [https://fallen-java.github.io/blog](https://fallen-java.github.io/blog)
 
 - 💬 Ask me about **beginner Python, HTML**
 
