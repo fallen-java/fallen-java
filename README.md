@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **deleting censorship**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, Lua**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -15,7 +15,7 @@
 
 - 📝 I write articles on [https://fallen-java.github.io/blog](https://fallen-java.github.io/blog)
 
-- 💬 Ask me about **beginner Python, HTML**
+- 💬 Ask me about **beginner Python, HTML, CSS**
 
 - 📫 How to reach me **dfmoedu@tuta.io | hoodednoodle@tuta.io**
 
